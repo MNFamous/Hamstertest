@@ -1,0 +1,2 @@
+# Hamstertest
+LFS test
